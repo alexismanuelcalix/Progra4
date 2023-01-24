@@ -1,0 +1,16 @@
+CRACTERISTICA DE JavaScript
+-Interpretado
+-Orientado a objetos
+-debilmente tipadoi
+-Dinamico
+
+Babel de javaScript
+JavaScript es Backwards compatible
+
+Motor de JavaScript V8 JS Engine
+Tokens JavaScript
+
+Bibliotecas de javascript 
+Visualizacion de datos 
+Manipulacion del DOM 
+Formularios
